@@ -1,5 +1,5 @@
 context:
-  version: 0.21.4
+  version: "0.23.0"
 
 package:
   name: manypkg
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@manypkg/cli/-/cli-${{ version }}.tgz
-  sha256: 8cf668d21728b2a466914fbdfcd75e3dff82d9124d10bf82620377ac4b2f7c08
+  sha256: 98d1c6ed594f426b50030cc30c8f53487ea6812e94205d44be8ae4f7fc79234a
 
 build:
   number: 0
